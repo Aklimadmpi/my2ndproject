@@ -1,4 +1,4 @@
-# 2n_dproject
+# 2nd_project
 welcome to my 2nd project
 
 ### My name is Aklima Akter
